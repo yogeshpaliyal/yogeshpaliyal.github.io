@@ -1,0 +1,8 @@
+{
+  "status" : 200,
+  "message" : "Success Message! Hooray",
+  "data" : {
+    "name" : "Yogesh Paliyal"
+  }
+}
+
