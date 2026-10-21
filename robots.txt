@@ -5,3 +5,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://github.yogeshpaliyal.com/sitemap.xml
+Sitemap: https://github.yogeshpaliyal.com/skiff/sitemap.xml
